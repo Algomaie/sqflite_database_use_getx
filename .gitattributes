@@ -1,0 +1,7 @@
+*.dart linguist-language=Dart
+*.cpp linguist-language=C++
+*.h linguist-language=C++
+*.c linguist-language=C
+*.html linguist-language=HTML
+*.swift linguist-language=Swift
+*.cmake linguist-language=CMake
